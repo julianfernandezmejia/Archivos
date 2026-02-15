@@ -1,0 +1,12 @@
+title: Julián Fernández Mejía
+email: fernandez.julian@javeriana.edu.co
+description: Personal academic webpage
+baseurl: ""
+url: ""
+theme: minima
+header_pages:
+  - index.md
+  - vitae.md
+  - research.md
+  - teaching.md
+  - useful-links.md
